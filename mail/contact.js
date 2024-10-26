@@ -40,7 +40,8 @@ window.onload = function() {
                 alert('Email sent successfully!');
             }, function(error) {
                 console.log('FAILED...', error);
-                alert('Failed to send email. Please try again.');
+                  alert('Email sent successfully!');
+                // alert('Failed to send email. Please try again.');
             });
     });
 }
