@@ -22,7 +22,7 @@ I enjoy, to code, to write poet , to watch movies .
 
 - 👨‍🎓 I'm a **I am Web Developer & Designer**
 - 🔭 I’m currently working on [Java Script and React](https://github.com/krishanmurariji) platform
-- ✍ I'm a **Teacher & Student ** [Visit me](https://krishanmurari.vercel.app/)
+- ✍ I'm a **Teacher & Student ** [Visit me](https://krishanmurari.me/)
 - 🌱 I'm currently learning:
   - Data Structures and Algorithms on [LeetCode](https://leetcode.com/Krishanmurariji/)
   - Tools and technologies from <a href="#"><img alt="React" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a> ecosystem
