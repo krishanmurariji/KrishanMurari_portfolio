@@ -1,4 +1,4 @@
-# Welcome to [Krishan Murari's](https://krishanmurari.live/) profile! <a href="https://krishanmurari.live/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+# Welcome to [Krishan Murari's](https://krishan-murari-portfolio.vercel.app/) profile! <a href="https://krishan-murari-portfolio.vercel.app/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 <a href="https://www.linkedin.com/in/krishan-murari/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Krishan_murari" height="30" width="40" /></a>
 &nbsp;
@@ -20,7 +20,7 @@ I enjoy coding, writing poetry, and watching movies.
 
 - 👨‍🎓 I'm a **Web Developer & Designer**
 - 🔭 I’m currently working on [JavaScript and React](https://github.com/krishanmurariji) projects
-- ✍ I'm a **Teacher & Student** [Visit me](https://krishanmurari.live/)
+- ✍ I'm a **Teacher & Student** [Visit me](https://krishan-murari-portfolio.vercel.app/)
 - 🌱 I'm currently learning:
   - Data Structures and Algorithms on [LeetCode](https://leetcode.com/Krishanmurariji/)
   - Tools and technologies from <a href="#"><img alt="React" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a> ecosystem
