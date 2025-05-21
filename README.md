@@ -1,40 +1,34 @@
-# Welcome to [Krishan Murari's](https://krishanmurari.vercel.app/) profile! <a href="https://krishanmurari.vercel.app/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+# Welcome to [Krishan Murari's](https://krishanmurari.live/) profile! <a href="https://krishanmurari.live/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-<a href="https://linkedin.com/in/krishan-murari/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Krishan_murari" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/krishan-murari/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Krishan_murari" height="30" width="40" /></a>
 &nbsp;
 <a href="https://twitter.com/KrishanMuraari" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Krishan_murari" height="30" width="40" /></a>
 &nbsp;
 <a href="https://www.instagram.com/krishanmurariji/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Krishan_murari" height="30" width="40" /></a>
 &nbsp;
-
-
+<a href="https://www.youtube.com/@Decode-And-discover" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Krishan_murari" height="30" width="40" /></a>
+&nbsp;
 
 ## Hey everyone! &nbsp; 
 
-I am a Web Developer and Poet.
-I love to explore new tech and tech world. the coding is my intrest , my hobbie.
+I am a Web Developer and Poet.  
+I love to explore new tech and the tech world. Coding is my interest, my hobby.
 
-I enjoy, to code, to write poet , to watch movies .
-
-
+I enjoy coding, writing poetry, and watching movies.
 
 ### Talking about Personal Stuff:
 
-- 👨‍🎓 I'm a **I am Web Developer & Designer**
-- 🔭 I’m currently working on [Java Script and React](https://github.com/krishanmurariji) platform
-- ✍ I'm a **Teacher & Student ** [Visit me]([https://krishanmurari.me/](https://krishanmurari.live/))
+- 👨‍🎓 I'm a **Web Developer & Designer**
+- 🔭 I’m currently working on [JavaScript and React](https://github.com/krishanmurariji) projects
+- ✍ I'm a **Teacher & Student** [Visit me](https://krishanmurari.live/)
 - 🌱 I'm currently learning:
   - Data Structures and Algorithms on [LeetCode](https://leetcode.com/Krishanmurariji/)
   - Tools and technologies from <a href="#"><img alt="React" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a> ecosystem
-  
-
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/krishanmurariji" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Krishan_murari" height="30" width="40" /></a>
 &nbsp;
 <a href="https://leetcode.com/Krishanmurariji/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Krishan_murari" height="30" width="40" /></a>
-&nbsp;
-
 &nbsp;
 
 ---
@@ -85,5 +79,3 @@ I enjoy, to code, to write poet , to watch movies .
     <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
-
-
