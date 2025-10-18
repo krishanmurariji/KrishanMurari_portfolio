@@ -1,4 +1,4 @@
-# Welcome to [Krishan Murari's](https://krishan-murari-portfolio.vercel.app/) profile! <a href="https://krishan-murari-portfolio.vercel.app/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+# Welcome to [Krishan Murari's](https://krishanmurari.live/) profile! <a href="https://krishanmurari.live/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 <a href="https://www.linkedin.com/in/krishan-murari/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Krishan_murari" height="30" width="40" /></a>
 &nbsp;
@@ -19,11 +19,11 @@ I enjoy coding, writing poetry, and watching movies.
 ### Talking about Personal Stuff:
 
 - 👨‍🎓 I'm a **Web Developer & Designer**
-- 🔭 I’m currently working on [JavaScript and React](https://github.com/krishanmurariji) projects
-- ✍ I'm a **Teacher & Student** [Visit me](https://krishan-murari-portfolio.vercel.app/)
+- 🔭 I'm currently working on [JavaScript and React](https://github.com/krishanmurariji) projects
+- ✍ I'm a **Teacher & Student** [Visit me](https://krishanmurari.live/)
 - 🌱 I'm currently learning:
   - Data Structures and Algorithms on [LeetCode](https://leetcode.com/Krishanmurariji/)
-  - Tools and technologies from <a href="#"><img alt="React" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a> ecosystem
+  - Tools and technologies from <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a> ecosystem
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/krishanmurariji" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Krishan_murari" height="30" width="40" /></a>
@@ -72,10 +72,40 @@ I enjoy coding, writing poetry, and watching movies.
 ### 💻 Software and tools
 
 <p>
-    <a  href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-    <a style="border-radius = 20px" href="#"><img alt="Chrome" src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white"></a>
-    <a style="border-radius = 20px" href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"></a>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+    <a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white"></a>
+    <a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"></a>
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
     <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krishanmurariji&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishanmurariji&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🌐 Visit My Portfolio
+
+<p align="center">
+  <a href="https://krishanmurari.live/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-krishanmurari.live-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=krishanmurariji&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+</p>
+
+<p align="center">Made with ❤️ by Krishan Murari</p>
