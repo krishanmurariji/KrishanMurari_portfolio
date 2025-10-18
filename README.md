@@ -1,4 +1,5 @@
 # Welcome to [Krishan Murari's](https://krishanmurari.live/) profile! <a href="https://krishanmurari.live/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+<img width="192" height="192" alt="android-chrome-192x192" src="https://github.com/user-attachments/assets/4ee4e42c-3277-4c54-9f42-c34eeb39ca96" />
 
 <a href="https://www.linkedin.com/in/krishan-murari/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Krishan_murari" height="30" width="40" /></a>
 &nbsp;
